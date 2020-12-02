@@ -9,7 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-NS_SWIFT_NAME(Integration)
+NS_SWIFT_NAME(SEGIntegration)
 @protocol SEGIntegration <NSObject>
 
 @optional
